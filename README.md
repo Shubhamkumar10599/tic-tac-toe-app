@@ -7,6 +7,10 @@ In order to win the game, a player must place three of their marks in a horizont
 
 
 
+![Screenshot (253)](https://user-images.githubusercontent.com/59762599/119400641-1549c700-bcf8-11eb-8df3-147b8cf26b66.png)
+
+
+
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/59762599/119400290-99e81580-bcf7-11eb-975e-4e29080558eb.png)
 
